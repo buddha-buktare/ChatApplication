@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "865021269340",
+    "project_id": "tickitac-8ea97",
+    "storage_bucket": "tickitac-8ea97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865021269340:android:d17cad13ef31e59f579d99",
+        "android_client_info": {
+          "package_name": "squatsandwheels.tickitac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865021269340-b2t7hee4pdv6cb6llrophhrf06oiuqht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "squatsandwheels.tickitac",
+            "certificate_hash": "2b4ac2c0e406d1484814965bb5509325a5ebf6ed"
+          }
+        },
+        {
+          "client_id": "865021269340-gtgmobsu6jud4t3b4oq3eaouogd1upbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCejWOM_GX6wOEKY3o4iy2T7INBPlucgWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865021269340-gtgmobsu6jud4t3b4oq3eaouogd1upbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
