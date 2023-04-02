@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082186588661",
+    "project_id": "chatapplication-4f046",
+    "storage_bucket": "chatapplication-4f046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082186588661:android:1e73fe0ccd8779b97600bc",
+        "android_client_info": {
+          "package_name": "me.buddha.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082186588661-dqiapahdc316f3st2m08bdib5sjsaha7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw-Wq3HQ6qgkoGNr55b3OGgoq_EwrDGE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082186588661-dqiapahdc316f3st2m08bdib5sjsaha7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
